@@ -1,0 +1,10 @@
+Delta Batch 
+//what is internet ?
+//client and server architecture
+//how internet works
+
+//what is web dev?
+//prerequisites
+chrome
+vs code
+
